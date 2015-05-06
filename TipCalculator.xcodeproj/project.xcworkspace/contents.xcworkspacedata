@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../TipCalculatorModel.swift">
+   </FileRef>
+   <FileRef
       location = "self:TipCalculator.xcodeproj">
    </FileRef>
 </Workspace>
